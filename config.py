@@ -8,7 +8,7 @@ logo=r'''
 '''
 ##########################BILIBILI区设置##########################
 bili=True#bilibili签到总开关
-biliCookies=[{'SESSDATA':'xxxx','bili_jct':'xxxx'}]#哔哩哔哩账号cookie存放
+biliCookies=[{'SESSDATA':'bcc31ed0%2C1727701476%2Cbdbc1%2A41CjB2O3vEo4NE1wHROfUu-5pXUMT9JFEZZ0wg0YagNLraUHaw3q6SC6YrsttTYMEQ1CASVm1nMnUteFh5NTctYXVEelEzZ3Z5UnpKczl5bFRpMDFRZWh3SnNiaDZRZlE0R0Y3ak54N2N4M3pNRGpUNEtwSGt3SGRqaFNYeFNqMno3RnE1UFVPWlBBIIEC','bili_jct':'59fb5d76447873274c56baf8434a1f79'}]#哔哩哔哩账号cookie存放
 paly=True#每日播放任务开关，True开启，False关闭
 biliSign=True#每日签到任务开关，True开启，False关闭
 coin=True#每日投币任务开关，True开启，False关闭
